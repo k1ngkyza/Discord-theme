@@ -1,0 +1,165 @@
+[
+  {
+    "selector": "body, .app, .base-3O0-_G",
+    "properties": {
+      "background-color": "#1A1A2E !important",
+      "color": "#E0E0E0 !important",
+      "font-family": "'Inter', sans-serif !important"
+    }
+  },
+  {
+    "selector": ".sidebar-2K8pFh, .channels-3g2v5a",
+    "properties": {
+      "background-color": "#0F001A !important",
+      "border-right": "1px solid #330066 !important"
+    }
+  },
+  {
+    "selector": ".wrapper-1BlynH.selected .childWrapper-1RdQru, .wrapper-1BlynH:hover .childWrapper-1RdQru",
+    "properties": {
+      "background-color": "#FF00FF !important",
+      "border-radius": "10px !important"
+    }
+  },
+  {
+    "selector": ".container-2cd8Cw:hover, .modeSelected-346R90 .content-1x5b-z",
+    "properties": {
+      "background-color": "#330066 !important",
+      "border-radius": "8px !important"
+    }
+  },
+  {
+    "selector": ".content-1x5b-z",
+    "properties": {
+      "color": "#E0E0E0 !important"
+    }
+  },
+  {
+    "selector": ".modeSelected-346R90 .content-1x5b-z .name-28jUa_",
+    "properties": {
+      "color": "#FF00FF !important",
+      "font-weight": "bold !important"
+    }
+  },
+  {
+    "selector": ".chat-3bRxxu",
+    "properties": {
+      "background-color": "#1A1A2E !important"
+    }
+  },
+  {
+    "selector": ".message-2qnXI9",
+    "properties": {
+      "background-color": "transparent !important"
+    }
+  },
+  {
+    "selector": ".membersWrap-2h-P3M",
+    "properties": {
+      "background-color": "#1A1A2E !important",
+      "border-left": "1px solid #330066 !important"
+    }
+  },
+  {
+    "selector": ".member-3-g9Xe:hover",
+    "properties": {
+      "background-color": "#2A004A !important",
+      "border-radius": "5px !important"
+    }
+  },
+  {
+    "selector": ".form-2gU5nr",
+    "properties": {
+      "background-color": "#0F001A !important",
+      "border-top": "1px solid #330066 !important",
+      "padding": "10px !important"
+    }
+  },
+  {
+    "selector": ".textArea-2CLwps",
+    "properties": {
+      "background-color": "#0A0015 !important",
+      "border": "1px solid #330066 !important",
+      "color": "#00FFFF !important",
+      "box-shadow": "inset 0 0 5px #330066 !important",
+      "border-radius": "8px !important",
+      "padding": "10px !important"
+    }
+  },
+  {
+    "selector": "button, .button-38aScr",
+    "properties": {
+      "background-color": "#6A0DAD !important",
+      "color": "#00FFFF !important",
+      "border": "1px solid #00FFFF !important",
+      "box-shadow": "0 0 8px #00FFFF !important",
+      "border-radius": "8px !important",
+      "transition": "all 0.2s ease-in-out !important"
+    }
+  },
+  {
+    "selector": "button:hover, .button-38aScr:hover",
+    "properties": {
+      "background-color": "#8A0DDD !important",
+      "box-shadow": "0 0 12px #00FFFF, 0 0 20px #FF00FF !important"
+    }
+  },
+  {
+    "selector": ".attachButton-1G61g8, .emojiButton-1xYQJ5, .sendButton-2G_h3L",
+    "properties": {
+      "background-color": "transparent !important",
+      "border": "none !important",
+      "color": "#00FFFF !important",
+      "transition": "color 0.2s ease-in-out !important"
+    }
+  },
+  {
+    "selector": ".attachButton-1G61g8:hover, .emojiButton-1xYQJ5:hover, .sendButton-2G_h3L:hover",
+    "properties": {
+      "color": "#FF00FF !important"
+    }
+  },
+  {
+    "selector": "::-webkit-scrollbar-track",
+    "properties": {
+      "background": "#1A1A2E !important"
+    }
+  },
+  {
+    "selector": "::-webkit-scrollbar-thumb",
+    "properties": {
+      "background": "#330066 !important",
+      "border-radius": "5px !important"
+    }
+  },
+  {
+    "selector": "::-webkit-scrollbar-thumb:hover",
+    "properties": {
+      "background": "#FF00FF !important"
+    }
+  },
+  {
+    "selector": ".mention, a",
+    "properties": {
+      "color": "#00FFFF !important",
+      "text-decoration": "none !important",
+      "transition": "color 0.2s ease-in-out !important"
+    }
+  },
+  {
+    "selector": ".mention:hover, a:hover",
+    "properties": {
+      "color": "#FF00FF !important",
+      "text-decoration": "underline !important"
+    }
+  },
+  {
+    "selector": ".modal-1UGfxW",
+    "properties": {
+      "background-color": "#0F001A !important",
+      "border": "1px solid #FF00FF !important",
+      "box-shadow": "0 0 15px #FF00FF !important",
+      "border-radius": "10px !important"
+    }
+  }
+]
